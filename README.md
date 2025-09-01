@@ -36,7 +36,7 @@ Hi, I am **Lim Leong Kee**, the sole designer and developer of this project, whi
 ## Production App
 
 You can access the live production app here:
-[**Server APIs (Java + MongoDB) – Production**](https://leongkee-java-rest-api-docker.onrender.com/index.html)
+<a href="https://leongkee-java-rest-api-docker.onrender.com/index.html" target="_blank">Server APIs (Java + MongoDB) – Production</a>
 
 ## Notes for Reviewers
 
