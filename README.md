@@ -36,7 +36,7 @@ Hi, I am **Lim Leong Kee**, the sole designer and developer of this project, whi
 ## Demo App
 
 You can access the live demo app here:
-[Server APIs (Java + MongoDB) – Demo](https://leongkee-java-rest-api-docker.onrender.com/index.html)
+[Server APIs (Java + MongoDB) – Demo](https://leongkee-java-rest-api.onrender.com/index.html)
 
 ## Notes for Reviewers
 
