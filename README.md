@@ -19,7 +19,7 @@ Hi, I am **Lim Leong Kee**, the sole designer and developer of this project, whi
 - Standard Swagger UI
   (Custom HTML, CSS, and JavaScript for Swagger UI are **not included** in this repository)
 
-### Production Version
+### Demo Version
 
 🖥️ **Backend**
 - Java
@@ -33,17 +33,17 @@ Hi, I am **Lim Leong Kee**, the sole designer and developer of this project, whi
 - CSS
 - JavaScript
 
-## Production App
+## Demo App
 
-You can access the live production app here:
-[Server APIs (Java + MongoDB) – Production](https://leongkee-java-rest-api-docker.onrender.com/index.html)
+You can access the live demo app here:
+[Server APIs (Java + MongoDB) – Demo](https://leongkee-java-rest-api-docker.onrender.com/index.html)
 
 ## Notes for Reviewers
 
 - This repository contains **only the Java backend source code**, available for download and review.
 - Frontend customizations and the **Dockerfile** are **not included** in this review-only repository.
 - Running the downloaded code can still render the **standard Swagger UI**, allowing reviewers to **explore or test the APIs**.
-- If you want to run the downloaded code locally, a `.env` file with the required configuration will be provided separately.
+- If you want to run the downloaded code locally, a `.env` file (for development use only) with the required configuration will be provided separately.
 - Please review **the project structure, code architecture, API design, and backend logic**. Thank you.
 
 ## Contact
