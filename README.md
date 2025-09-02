@@ -38,8 +38,6 @@ Hi, I am **Lim Leong Kee**, the sole designer and developer of this project, whi
 You can access the live demo app here:
 [Server APIs (Java + MongoDB) – Demo](https://leongkee-java-rest-api-docker.onrender.com/index.html)
 
-⚠️ **Note:** The demo app is hosted on a free web service instance that will **spin down due to inactivity**. It may take up to **2 minutes** for the instance to spin back up and for the website to load. Please wait until the Swagger UI appears on the website before using it.
-
 ## Notes for Reviewers
 
 - This repository contains **only the Java backend source code**, available for download and review.
