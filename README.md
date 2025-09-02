@@ -43,7 +43,7 @@ You can access the live demo app here:
 - This repository contains **only the Java backend source code**, available for download and review.
 - Frontend customizations and the **Dockerfile** are **not included** in this review-only repository.
 - Running the downloaded code can still render the **standard Swagger UI**, allowing reviewers to **explore or test the APIs**.
-- If you want to run the downloaded code locally, a `.env` file (for development use only) with the required configuration will be provided separately.
+- I will provide a `.env` file (**for review use only**) with the required configuration separately for reviewers who want to run the downloaded code locally.
 - Please review **the project structure, code architecture, API design, and backend logic**. Thank you.
 
 ## Contact
